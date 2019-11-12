@@ -1,0 +1,38 @@
+[ 
+   { 
+      "title":"Getting started with React Data Grid",
+      "id":1001,
+      "tags":[ 
+         "grid",
+         "react",
+         "data-grid"
+      ]
+   },
+   { 
+      "title":"Data Binding React Data Grid",
+      "id":1002,
+      "tags":[ 
+         "grid",
+         "react",
+         "data-grid"
+      ]
+   },
+   { 
+      "title":"CRUD React Data Grid",
+      "id":1003,
+      "tags":[ 
+         "grid",
+         "react",
+         "data-grid"
+      ]
+   },
+   { 
+      "title":"SSR -  React Data Grid",
+      "id":1004,
+      "tags":[ 
+         "grid",
+         "react",
+         "data-grid"
+      ]
+   }
+]
