@@ -14,8 +14,8 @@
          "title":"Getting started with React Data Grid",
          "id":1001,
          "imageUrl":"https://images.unsplash.com/photo-1508138221679-760a23a2285b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80",
-         "description":"",
-         "published":"",
+         "description":"This is a short desccription about the first blog being written. So this might be a good description without any changes.",
+         "published":"06/Aug/2019",
          "tags":[ 
             "grid",
             "react",
